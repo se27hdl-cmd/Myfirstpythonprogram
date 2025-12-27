@@ -4,3 +4,8 @@ print(message)
 
 message = "Trying new upload"
 print(message)
+status = "Learning Python"
+print(status)
+
+status = "Uploading to GitHub"
+print(status)
